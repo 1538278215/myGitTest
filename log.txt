@@ -6,4 +6,5 @@
 又修复了一个BUG
 1
 hello
-good
+goodhello1
+good1
